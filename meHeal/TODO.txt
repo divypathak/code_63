@@ -1,0 +1,7 @@
+[ ] Login Page
+
+[ ] Dashboard
+    [ ] Set of videos
+    [ ] Take the questionnaire
+    [ ] Tiles with widgets (opt)
+    [ ] Hospitals near you page (opt)
